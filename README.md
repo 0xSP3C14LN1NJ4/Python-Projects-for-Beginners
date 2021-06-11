@@ -1,7 +1,7 @@
 # Python Projects for Beginners
 
-- GuessNumber.py : The goal of this simple game is to guess the random number between 1 and 1000
-- RandomNumber.py : This simple program gives you a random number between the range you specified
+- GuessNumber.py : Guess the random number between 1 and 1000
+- RandomNumber.py : Generate a random number between the range specified
 - Calculator.py : Simple calculator
 - PasswordGenerator.py : Generate the number of passwords you want with the length you want
 - QRCodeGenerator.py : Generate a QR code based on data received as input
